@@ -1,0 +1,51 @@
+product_id,title,category
+1,Wireless Bluetooth Earbuds,Electronics
+2,Noise Cancelling Headphones,Electronics
+3,Gaming Mouse,Electronics
+4,Mechanical Keyboard,Electronics
+5,Smart Watch,Electronics
+6,Portable SSD,Electronics
+7,USB C Charger,Electronics
+8,Wireless Speaker,Electronics
+9,Fitness Tracker,Electronics
+10,Laptop Stand,Electronics
+11,Running Shoes,Fashion
+12,Sports Sneakers,Fashion
+13,Cotton T Shirt,Fashion
+14,Denim Jeans,Fashion
+15,Hooded Sweatshirt,Fashion
+16,Formal Shirt,Fashion
+17,Leather Jacket,Fashion
+18,Sports Cap,Fashion
+19,Yoga Pants,Fashion
+20,Training Shorts,Fashion
+21,Travel Backpack,Accessories
+22,Leather Wallet,Accessories
+23,Sunglasses,Accessories
+24,Travel Pillow,Accessories
+25,Laptop Bag,Accessories
+26,Water Bottle,Home
+27,Coffee Mug,Home
+28,Desk Lamp,Home
+29,Office Chair,Home
+30,Study Table,Home
+31,Electric Kettle,Home
+32,Air Fryer,Home
+33,Vacuum Cleaner,Home
+34,Bedside Lamp,Home
+35,Wall Clock,Home
+36,Protein Powder,Fitness
+37,Yoga Mat,Fitness
+38,Dumbbell Set,Fitness
+39,Resistance Bands,Fitness
+40,Exercise Bike,Fitness
+41,Cricket Bat,Sports
+42,Badminton Racket,Sports
+43,Football,Sports
+44,Basketball,Sports
+45,Tennis Ball Set,Sports
+46,Programming Book,Books
+47,Machine Learning Handbook,Books
+48,Data Science Guide,Books
+49,Python Programming Guide,Books
+50,Artificial Intelligence Basics,Books
