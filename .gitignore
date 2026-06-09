@@ -24,3 +24,18 @@ models/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Large datasets
+data/*.parquet
+data/shopsense_*.csv
+
+# Generated embeddings and indexes
+models/*.pkl
+models/*.faiss
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
